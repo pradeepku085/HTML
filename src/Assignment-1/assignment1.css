@@ -5,3 +5,45 @@
 width: 100%;
 height: 100%;
 }
+
+.raw{
+    margin: 10px;
+}
+.col1{
+    width: 50%;
+    height: 500px;
+    float: left;
+    background-color: aqua;
+}
+
+.col2 {
+    width: 50%;
+    height: 500px;
+    float: right;
+}
+
+.col3 {
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+
+.col4 {
+    width: 50%;
+    height: 500px;
+    float: right;
+    background-color: brown;
+}
+
+
+img{
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    text-align: center;
+    margin: 200px;
+    font-size: 40px;
+    color: white;
+}
