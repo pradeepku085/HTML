@@ -5,3 +5,56 @@
 width: 100%;
 height: 100%;
 }
+
+.content{
+    background-color: #f2f2f2;
+    width: 100%;
+    height: 350px;
+    border: 1px solid black;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.left-inline, .right-inline{
+    display: inline-block;
+    width: 40%;
+    margin: 40px;
+}
+.left-inline{
+    vertical-align: top;
+}
+
+.right-inline{
+    height: inherit;
+}
+
+#render-wiki{
+    width: 100%;
+    height: 200px;
+}
+
+.btn{
+    background: black;
+    border: 1px solid white;
+    color: white;
+    height: 50px;
+    width: 150px;
+    vertical-align: middle;
+    padding: 15px;
+
+}
+
+.block{
+    display: block;
+    width: 100%;
+}
+
+.bottom-content{
+    height: 100px;
+}
+
+#render-dictionary{
+    width: 97%;
+    height: 130px;
+    margin: 10px;
+}
